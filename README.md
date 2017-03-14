@@ -1,2 +1,6 @@
-# cnn-from-scratch
-Implementing a convolutional neural network from scratch and visualizing what it learns
+(in progress)
+# Convolutional neural network from scratch
+Almost all of us have heard of the wonders caused by a Convolutional neural network architecture. From winning Imagenet challenges to generating natural language descriptions to even hallucinating images, CNN modules have become a necessity in almost all challenging computer vision problem.
+Moreover, with deep learning revolutionizing the fields of computer vision, NLP, reinforcement learning, many deep learning frameworks have been released which make the life of a deep learning enthusiast much easier by providing sort of an API for implementing deep learning models. Some of the popular deep learning frameworks include <a href="http://deeplearning.net/software/theano/">Theano</a>, <a href="https://www.tensorflow.org">Tensorflow</a>, <a href="http://caffe.berkeleyvision.org/">Caffe</a>.
+However, I do believe that getting an intuition behind a system's working is a lot more satisfactory than letting it behave as a #black box. How and why does a CNN produces such quality results, how does the input data flow between the layers in a CNN, how do the firing up of neurons in a particular layer depend on some of the neurons in the previous layers are some of the questions that came to my mind when I first started learning about CNNs.
+So in this post I have attempted to implement a Convolutional neural network from scratch, without involving any deep learning framework.
