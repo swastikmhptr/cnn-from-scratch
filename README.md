@@ -1,4 +1,4 @@
-(Work in progress..)
+(Some work in progress..)
 # Convolutional neural network almost from scratch
 Almost all of us have heard of the wonders caused by a Convolutional neural network architecture. From winning Imagenet challenges to generating natural language descriptions to even hallucinating images, CNN modules have become a necessity in almost all challenging computer vision problem.
 Moreover, with deep learning revolutionizing the fields of computer vision, NLP, reinforcement learning, many deep learning frameworks have been released which make the life of a deep learning enthusiast much easier by providing sort of an API for implementing deep learning models. Some of the popular deep learning frameworks include <a href="http://deeplearning.net/software/theano/">Theano</a>, <a href="https://www.tensorflow.org">Tensorflow</a>, <a href="http://caffe.berkeleyvision.org/">Caffe</a>.
